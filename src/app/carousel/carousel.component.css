@@ -1,0 +1,31 @@
+
+
+.crsel img{
+  width: 100%;
+margin-top: 0px;
+  max-height: 75vh;
+}
+.crsel:focus{
+  outline: none;
+}
+.form-inline{
+  justify-content: space-between;
+}
+.picsum-img-wrapper{
+
+}
+::ng-deep .carousel-control-next-icon{
+margin-left: 0px;
+
+}
+::ng-deep .carousel-control-next{
+  width: 3vw;
+
+}
+::ng-deep.carousel-control-prev-icon {
+}
+
+::ng-deep .carousel-control-prev{
+  width: 3vw;
+
+}
